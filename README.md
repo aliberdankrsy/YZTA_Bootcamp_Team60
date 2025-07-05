@@ -57,7 +57,7 @@
 
 ---
 
-<!-- OYUN LOGOSU -->
+## !-- OYUN LOGOSU --!
 <p align="center">
   <img src="https://i.imgur.com/ZHH28tk.png" alt="Oyun Logosu" width="400"/>
 </p>
@@ -66,13 +66,12 @@
 
 ## 🧠 Oyun Açıklaması: ** 8 DAYS IN THE HELL **
 
-X, şeytanla yaptığı bir anlaşma sonucunda ölümsüzlüğe kavuşmuştur. Ancak en sevdiği şeyin ruhunun bir gün şeytana ait olacağı şartıyla...
+Dylan, ölümden kaçmak için her türlü suçu işlemiş, lanetli bir adam. Yıllar önce şeytanla yaptığı bir anlaşma, ona yalnızca kendi isteğiyle ölme gücü verdi. Fakat bu anlaşmanın ağır bir bedeli vardı: Bir gün değer verdiği birinin ruhu şeytana ait olacaktı.
+O gün geldiğinde, Dylan hayatında ilk kez sevdiği kadın Adalind’i kaybeder. Onu kurtarmak için kendi canına kıyıp cehennemin derinliklerine iner. Ancak burada acımasız bir kural vardır: Her ruhun kaybolmadan önce sadece 8 günü vardır.
+Dylan, bu sürede dünyada işlediği 7 ölümcül günahla yüzleşmeli ve şeytanla kozlarını paylaşmalıdır. Her savaşı, kendi geçmişinin bir yansımasıdır. Her bölüm, onun karanlık yüzünü biraz daha ortaya çıkarır.
+Finalde her şey bittiğinde Dylan, aynada artık kendi yüzünü değil… şeytanın ta kendisini görür.
 
-Zamanla Y adında saf, iyi kalpli biriyle tanışır ve ona âşık olur. Y hastalanıp öldüğünde, X pişmanlıkla kendi canına kıyar ve cehenneme iner. Burada, Y’nin ruhunu 8 gün içinde bulamazsa onu sonsuza dek kaybedeceğini öğrenir.
-
-Cehennem 8 ölümcül günahtan oluşur. Her bir günah, X’in geçmişindeki karanlık yönlerini temsil eden bir boss tarafından yönetilmektedir. X, her biriyle yüzleşip kendi içsel dönüşümünü tamamlamak zorundadır.
-
-Oyun “To Be Continued...” mesajıyla biter çünkü X şeytanı öldürüp Y’yi kurtarır fakat artık kendisi şeytanın yerine geçmiştir...
+ ! Karanlık mizah, grotesk atmosfer ve absürt detaylarla dolu bu hikâyeye hazır ol !
 
 ---
 
@@ -180,8 +179,8 @@ Oyun burada, “To Be Continued...” mesajıyla sona erer.
 ---
 
 ## 🚧 Sprint 1
-
-> Sprint detayları buraya eklenebilir (ileride tamamlandıkça).
+<h4>Daily Scrum - Takım içi görüşmeler:</h4>
+> <a href="https://imgur.com/a/95DJB49?s=wa">
 
 ---
 
