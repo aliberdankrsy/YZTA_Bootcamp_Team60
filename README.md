@@ -78,13 +78,22 @@ Oyun “To Be Continued...” mesajıyla biter çünkü X şeytanı öldürüp Y
 
 ## 🧠 Oyun Hikayesi: ** 8 DAYS IN THE HELL **
 
-X, şeytanla yaptığı bir anlaşma sonucunda ölümsüzlüğe kavuşmuştur. Ancak en sevdiği şeyin ruhunun bir gün şeytana ait olacağı şartıyla...
+Ana karakterimiz Dylan, ölümden kaçmak için her türlü kötülüğü yapmış, karanlık geçmişe sahip, dövmeli, sakallı, alkol ve uyuşturucu bağımlısı, işsiz güçsüz bir adamdır. Hırsızlık, dolandırıcılık ve türlü suçlarla hayatta kalırken, hiçbir şeyi ve hiç kimseyi umursamadan yaşamıştır. Dışarıdan umursamaz ve vurdumduymaz görünse de, içinde kendine bile itiraf edemediği bir boşluk ve pişmanlık taşır.
+Yıllar önce, zor bir anda şeytanla bir anlaşma yapmıştır. Bu anlaşma, Dylan'e yalnızca kendi isteğiyle ölme gücü veren bir lanet getirmiştir; yani kendi isteği dışında asla ölememektedir. Karşılığında şeytan bir şart koşmuştur: "Bir gün değer verdiğin biri olursa, onun ruhu bana ait olacak."
 
-Zamanla Y adında saf, iyi kalpli biriyle tanışır ve ona âşık olur. Y hastalanıp öldüğünde, X pişmanlıkla kendi canına kıyar ve cehenneme iner. Burada, Y’nin ruhunu 8 gün içinde bulamazsa onu sonsuza dek kaybedeceğini öğrenir.
+Dylan bu şartı umursamaz, çünkü hayatta değer verdiği hiçbir şey yoktur. Ta ki Adalind ile tanışana kadar.
+Bir gün Dylan, yıllardır görüşmediği babasının ölüm haberini alır. Babasıyla hiçbir bağı olmayan Dylan, sadece meraktan ve belki de bedava içki bulabilme umuduyla cenazeye gider. Cenaze, eski ve kasvetli bir kilisede yapılır. Tüm kasaba oradadır. Dylan, kendini o ortamda fazlasıyla yabancı hissederken, burada Adalind adında iyi kalpli ve yardımsever bir kadınla karşılaşır. Y, kilisede çalışmakta ve cenaze işlerine yardımcı olmaktadır.
 
-Cehennem 8 ölümcül günahtan oluşur. Her bir günah, X’in geçmişindeki karanlık yönlerini temsil eden bir boss tarafından yönetilmektedir. X, her biriyle yüzleşip kendi içsel dönüşümünü tamamlamak zorundadır.
+Dylan, Adalind’in saflığı ve içtenliğinden etkilenir. Belki de hayatında ilk defa birine karşı duygusal bir bağ hissetmeye başlar. Adalind, onun kim olduğunu ve geçmişini bilmeden, ona iyi davranan ilk kişidir. Dylan, kendi karanlık tarafını gizleyerek Adalind ile vakit geçirmeye başlar. Karakterini ve gerçek yüzünü Adalind’den saklar. Zamanla aralarında bir yakınlık oluşur ve sevgili olurlar. Dylan için bu ilişki, alışık olmadığı bir durumdur. Yavaş yavaş hayata tutunmaya başlar.
+Aylar geçer. Bir gün Adalind, aniden hastalanır. Sebepsiz bir şekilde hızla kötüleşir. Doktorlar çaresizdir. Dylan, hayatında ilk kez kendisi dışında birini kaybetme korkusunu hisseder. Ve Adalind ölür. Ne yapacağını bilemeyen Dylan, işte o anda yıllar önce yaptığı o lanetli anlaşmayı hatırlar. Şeytan sözünü tutmaktadır. En değer verdiği varlığın ruhunu alma vakti gelmiştir.
 
-Oyun “To Be Continued...” mesajıyla biter çünkü X şeytanı öldürüp Y’yi kurtarır fakat artık kendisi şeytanın yerine geçmiştir...
+Adalind’i kurtarabilmenin tek yolu, kendi canına kıymak ve onun ruhunu bizzat cehennemden almak olduğunu düşünür. Ancak bu kolay değildir. Çünkü şeytanla yaptığı anlaşma nedeniyle kendi isteğiyle ölme gücüne sahip olsa da, bedeninin dayanması gerekir. Dylan, bu yüzden türlü yollarla kendini öldürmeye çalışır ve sonunda bedeninin dayanamayıp parçalandığı, ruhunun ise cehenneme sürüklendiği bir an yakalar.
+
+Gözlerini açtığında cehennemin derinliklerinde bulur kendini. Oranın acımasız kuralları vardır. Her ruh, sonsuza dek orada kaybolmadan önce yalnızca 8 günü vardır. Eğer bu süre içinde Y’nin ruhunu bulup kaçırmazsa, Adalind sonsuza kadar kaybolacaktır.
+Önce dünyada işlediği 7 büyük günahın bedellerini ödemesi gerekiyordur. Her bölümde kendi geçmişiyle yüzleşip, işlediği günahın suretiyle mücadele eder. Bu sınavları aştıktan sonra şeytanın sarayına ulaşmalı, onu alt etmeli ve Adalind’in ruhunu kurtarmalıdır.
+Şeytanın sarayında zorlu bir mücadeleden sonra şeytanı mağlup eder ve sevgilisinin ruhunu alarak cehennemden kaçmanın yolunu bulurlar. Dylan, kendini öldürdüğü yerde tekrar uyanır. Panikle arabasına atlayıp Adalind’in mezarına gitmek üzere yola çıkar. Fakat yoldayken, beklenmedik bir anda arabasının dikiz aynasından bir şey fark eder: Kendi silüeti yerine, şeytanın karanlık ve korkutucu silüeti gözükmektedir. O an anlar ki, şeytanı alt ettiğinde aslında onun yerine geçmiştir ve artık o şeytanın ta kendisidir.
+
+Oyun burada, “To Be Continued...” mesajıyla sona erer.
 
 ---
 
