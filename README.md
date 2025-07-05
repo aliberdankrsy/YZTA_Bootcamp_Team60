@@ -180,7 +180,7 @@ Oyun burada, “To Be Continued...” mesajıyla sona erer.
 
 ## 🚧 Sprint 1
 <h4>Daily Scrum - Takım içi görüşmeler:</h4>
-> <a href="https://imgur.com/a/95DJB49?s=wa">
+<a href="https://imgur.com/a/95DJB49?s=wa"></a>
 
 ---
 
