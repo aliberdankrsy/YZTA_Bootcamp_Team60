@@ -24,28 +24,28 @@
         <strong>Sevde Ceyda</strong><br/>
         <strong>KOÇ</strong><br/>
         <a href="https://github.com/sevdeceydaakoc">GitHub</a> |
-        <a href="https://linkedin.com/in/kullanici2">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/sevde-ceyda-ko%C3%A7-401b26314">LinkedIn</a>
       </td>
       <td align="center">
         <img src="https://drive.google.com/uc?export=view&id=1bU39-0sm6101i6kS-sZUVr-Kufv6af_o" width="100" height="100" style="border-radius: 50%" alt="Zeynep Buse Türkan"/><br/>
         <strong>Zeynep Buse</strong><br/>
         <strong>TÜRKAN</strong><br/>
         <a href="https://github.com/zturkan">GitHub</a> |
-        <a href="https://linkedin.com/in/kullanici3">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/zeynep-buse-t%C3%BCrkan">LinkedIn</a>
       </td>
       <td align="center">
         <img src="https://drive.google.com/uc?export=view&id=14LHnD5bD2aDF_5N8AZC3CQnsp852C9e3" width="100" height="100" style="border-radius: 50%" alt="İbrahim Çetin"/><br/>
         <strong>İbrahim</strong><br/>
         <strong>ÇETİN</strong><br/>
         <a href="https://github.com/IBRAHIMMCETIN">GitHub</a> |
-        <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/ibrahimmcetinn">LinkedIn</a>
       </td>
       <td align="center">
         <img src="https://drive.google.com/uc?export=view&id=16pfwdNbmjuFSKf4XgKRdGKGmxh8BxOQO" width="100" height="100" style="border-radius: 50%" alt="Reyhan Feyza Karabulut"/><br/>
         <strong>Reyhan Feyza</strong><br/>
         <strong>KARABULUT</strong><br/>
         <a href="https://github.com/feyza-01">GitHub</a> |
-        <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/reyhan-feyza-karabulut-73631333a">LinkedIn</a>
       </td>
     </tr>
   </table>
@@ -59,7 +59,7 @@
 
 ## !-- OYUN LOGOSU --!
 <p align="center">
-  <img src="https://i.imgur.com/ZHH28tk.png" alt="Oyun Logosu" width="400"/>
+   <img src="https://drive.google.com/uc?export=view&id=1Da1i83ntjHTUKARs-tcwU4VSNrO9QRe2" alt="Oyun Logo - Splash Art" width="400" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 ---
