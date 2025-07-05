@@ -12,21 +12,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=1A9YRUDpXmJpCG_UY2B6megsj3DJELin-" width="100" style="border-radius: 50%" />
+      <img src="https://drive.google.com/uc?export=view&id=1A9YRUDpXmJpCG_UY2B6megsj3DJELin-" width="100" height="100" style="border-radius: 50%" alt="Ali Berdan Karasoy"/>
       <br/>
       <strong>Ali Berdan Karasoy</strong><br/>
       <a href="https://github.com/aliberdankrsy">GitHub</a> |
       <a href="https://tr.linkedin.com/in/ali-berdan-karasoy-181a34276">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="https://drive.google.com/file/d/1lIIrUQ4pidUZA46aXRgCPorpG-if4ns5/view?usp=drive_link" width="100" height="100" style="border-radius: 50%" alt="Sevde Ceyda Koç"/>
+      <img src="https://drive.google.com/uc?export=view&id=1lIIrUQ4pidUZA46aXRgCPorpG-if4ns5" width="100" height="100" style="border-radius: 50%" alt="Sevde Ceyda Koç"/>
       <br/>
       <strong>Sevde Ceyda Koç</strong><br/>
       <a href="https://github.com/sevdeceydaakoc">GitHub</a> |
       <a href="https://linkedin.com/in/kullanici2">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="https://drive.google.com/file/d/1bU39-0sm6101i6kS-sZUVr-Kufv6af_o/view?usp=drive_link" width="100" height="100" style="border-radius: 50%" alt="Zeynep Buse Türkan"/>
+      <img src="https://drive.google.com/uc?export=view&id=1bU39-0sm6101i6kS-sZUVr-Kufv6af_o" width="100" height="100" style="border-radius: 50%" alt="Zeynep Buse Türkan"/>
       <br/>
       <strong>Zeynep Buse Türkan</strong><br/>
       <a href="https://github.com/zturkan">GitHub</a> |
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://drive.google.com/file/d/14LHnD5bD2aDF_5N8AZC3CQnsp852C9e3/view?usp=drive_link" width="100" height="100" style="border-radius: 50%" alt="İbrahim Çetin"/>
+      <img src="https://drive.google.com/uc?export=view&id=14LHnD5bD2aDF_5N8AZC3CQnsp852C9e3" width="100" height="100" style="border-radius: 50%" alt="İbrahim Çetin"/>
       <br/>
       <strong>İbrahim Çetin</strong><br/>
       <a href="https://github.com/IBRAHIMMCETIN">GitHub</a> |
