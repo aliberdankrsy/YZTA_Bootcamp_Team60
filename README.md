@@ -179,8 +179,19 @@ Oyun burada, “To Be Continued...” mesajıyla sona erer.
 ---
 
 ## 🚧 Sprint 1
-<h4>Daily Scrum - Takım içi görüşmeler:</h4>
-<a href="https://imgur.com/a/95DJB49?s=wa"></a>
+<a href="https://imgur.com/a/95DJB49?s=wa">Daily Scrum - Takım içi görüşmeler.</a>
+
+<h4>Proje Yönetimi Tablosu</h4>
+
+<img src="https://drive.google.com/uc?export=view&id=1iTwfiwpc5zL6iTfYhDMMB2kWCXeseHEr" alt="Daily Scrum Görseli" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://drive.google.com/uc?export=view&id=1T3FG0iZ67-YRtlQkOp_bOGoBDtZdx6nx" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+
+---
+
+<h4>Projeden Görüntüler</h4>
+
+<img src="https://drive.google.com/uc?export=view&id=1Tt1QVI3mmMpMktgtHFzPuKmADe-Ahhva" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://drive.google.com/uc?export=view&id=14FxgWUi0RgbvnzNC4nwrsG_mWBEBmj_B" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
 
 ---
 
