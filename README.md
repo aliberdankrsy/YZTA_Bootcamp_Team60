@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://drive.google.com/file/d/1A9YRUDpXmJpCG_UY2B6megsj3DJELin-/view?usp=drive_link" width="100" height="100" style="border-radius: 50%" alt="Ali Berdan Karasoy"/>
+      <img src="https://drive.google.com/file/d/1A9YRUDpXmJpCG_UY2B6megsj3DJELin-/view?usp=drive_link.png" width="100" height="100" style="border-radius: 50%" alt="Ali Berdan Karasoy"/>
       <br/>
       <strong>Ali Berdan Karasoy</strong><br/>
       <a href="https://github.com/aliberdankrsy">GitHub</a> |
