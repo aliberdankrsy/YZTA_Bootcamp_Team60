@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Team ALFA6ZERO 🚀</h1>
-<h3 align="center">🎮 Proje: Sekizinci Gün</h3>
+<h3 align="center">🎮 Proje: 8 DAYS IN THE HELL</h3>
 
 <p align="center">
   <img src="https://i.imgur.com/ZHH28tk.png" alt="Takım Logosu" width="400"/>
@@ -15,35 +15,35 @@
       <td align="center">
         <img src="https://drive.google.com/uc?export=view&id=1A9YRUDpXmJpCG_UY2B6megsj3DJELin-" width="100" height="100" style="border-radius: 50%" alt="Ali Berdan Karasoy"/><br/>
         <strong>Ali Berdan</strong><br/>
-        <strong>Karasoy</strong><br/>
+        <strong>KARASOY</strong><br/>
         <a href="https://github.com/aliberdankrsy">GitHub</a> |
         <a href="https://tr.linkedin.com/in/ali-berdan-karasoy-181a34276">LinkedIn</a>
       </td>
       <td align="center">
         <img src="https://drive.google.com/uc?export=view&id=1lIIrUQ4pidUZA46aXRgCPorpG-if4ns5" width="100" height="100" style="border-radius: 50%" alt="Sevde Ceyda Koç"/><br/>
         <strong>Sevde Ceyda</strong><br/>
-        <strong>Koç</strong><br/>
+        <strong>KOÇ</strong><br/>
         <a href="https://github.com/sevdeceydaakoc">GitHub</a> |
         <a href="https://linkedin.com/in/kullanici2">LinkedIn</a>
       </td>
       <td align="center">
         <img src="https://drive.google.com/uc?export=view&id=1bU39-0sm6101i6kS-sZUVr-Kufv6af_o" width="100" height="100" style="border-radius: 50%" alt="Zeynep Buse Türkan"/><br/>
         <strong>Zeynep Buse</strong><br/>
-        <strong>Türkan</strong><br/>
+        <strong>TÜRKAN</strong><br/>
         <a href="https://github.com/zturkan">GitHub</a> |
         <a href="https://linkedin.com/in/kullanici3">LinkedIn</a>
       </td>
       <td align="center">
         <img src="https://drive.google.com/uc?export=view&id=14LHnD5bD2aDF_5N8AZC3CQnsp852C9e3" width="100" height="100" style="border-radius: 50%" alt="İbrahim Çetin"/><br/>
         <strong>İbrahim</strong><br/>
-        <strong>Çetin</strong><br/>
+        <strong>ÇETİN</strong><br/>
         <a href="https://github.com/IBRAHIMMCETIN">GitHub</a> |
         <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
       </td>
       <td align="center">
         <img src="https://drive.google.com/uc?export=view&id=16pfwdNbmjuFSKf4XgKRdGKGmxh8BxOQO" width="100" height="100" style="border-radius: 50%" alt="Reyhan Feyza Karabulut"/><br/>
         <strong>Reyhan Feyza</strong><br/>
-        <strong>Karabulut</strong><br/>
+        <strong>KARABULUT</strong><br/>
         <a href="https://github.com/feyza-01">GitHub</a> |
         <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
       </td>
@@ -53,11 +53,30 @@
 
 
 
-📋 **Backlog:** [Google Sheets Backlog](https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing)
+📋 **Backlog & Proje Yönetimi Tablosu** [Google Sheets](https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing)
 
 ---
 
-## 🧠 Oyun Hikayesi: **Sekizinci Gün**
+<!-- OYUN LOGOSU -->
+<p align="center">
+  <img src="https://i.imgur.com/ZHH28tk.png" alt="Oyun Logosu" width="400"/>
+</p>
+
+---
+
+## 🧠 Oyun Açıklaması: ** 8 DAYS IN THE HELL **
+
+X, şeytanla yaptığı bir anlaşma sonucunda ölümsüzlüğe kavuşmuştur. Ancak en sevdiği şeyin ruhunun bir gün şeytana ait olacağı şartıyla...
+
+Zamanla Y adında saf, iyi kalpli biriyle tanışır ve ona âşık olur. Y hastalanıp öldüğünde, X pişmanlıkla kendi canına kıyar ve cehenneme iner. Burada, Y’nin ruhunu 8 gün içinde bulamazsa onu sonsuza dek kaybedeceğini öğrenir.
+
+Cehennem 8 ölümcül günahtan oluşur. Her bir günah, X’in geçmişindeki karanlık yönlerini temsil eden bir boss tarafından yönetilmektedir. X, her biriyle yüzleşip kendi içsel dönüşümünü tamamlamak zorundadır.
+
+Oyun “To Be Continued...” mesajıyla biter çünkü X şeytanı öldürüp Y’yi kurtarır fakat artık kendisi şeytanın yerine geçmiştir...
+
+---
+
+## 🧠 Oyun Hikayesi: ** 8 DAYS IN THE HELL **
 
 X, şeytanla yaptığı bir anlaşma sonucunda ölümsüzlüğe kavuşmuştur. Ancak en sevdiği şeyin ruhunun bir gün şeytana ait olacağı şartıyla...
 
