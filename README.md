@@ -59,7 +59,7 @@
 
 ## !-- OYUN LOGOSU --!
 <p align="center">
-   <img src="https://drive.google.com/uc?export=view&id=1Da1i83ntjHTUKARs-tcwU4VSNrO9QRe2" alt="Oyun Logo - Splash Art" width="400"/>
+   <img src="https://drive.google.com/uc?export=view&id=1Da1i83ntjHTUKARs-tcwU4VSNrO9QRe2" alt="Oyun Logo - Splash Art" width="800"/>
 </p>
 
 ---
