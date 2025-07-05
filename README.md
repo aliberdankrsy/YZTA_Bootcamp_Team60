@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Team ALFA6ZERO 🚀</h1>
-<h3 align="center">🎮 Proje: 8 DAYS IN THE HELL</h3>
+<h3 align="center">🎮 Proje: 8 DAYS IN HELL</h3>
 
 <p align="center">
   <img src="https://i.imgur.com/ZHH28tk.png" alt="Takım Logosu" width="400"/>
@@ -53,18 +53,18 @@
 
 
 
-📋 **Backlog & Proje Yönetimi Tablosu** [Google Sheets](https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing)
+📋 Backlog & Proje Yönetimi Tablosu [Google Sheets](https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing)
 
 ---
 
-## !-- OYUN LOGOSU --!
+## OYUN LOGOSU
 <p align="center">
    <img src="https://drive.google.com/uc?export=view&id=1Da1i83ntjHTUKARs-tcwU4VSNrO9QRe2" alt="Oyun Logo - Splash Art" width="800"/>
 </p>
 
 ---
 
-## 🧠 Oyun Açıklaması: ** 8 DAYS IN THE HELL **
+## 🧠 Oyun Açıklaması: 8 DAYS IN HELL
 
 Dylan, ölümden kaçmak için her türlü suçu işlemiş, lanetli bir adam. Yıllar önce şeytanla yaptığı bir anlaşma, ona yalnızca kendi isteğiyle ölme gücü verdi. Fakat bu anlaşmanın ağır bir bedeli vardı: Bir gün değer verdiği birinin ruhu şeytana ait olacaktı.
 O gün geldiğinde, Dylan hayatında ilk kez sevdiği kadın Adalind’i kaybeder. Onu kurtarmak için kendi canına kıyıp cehennemin derinliklerine iner. Ancak burada acımasız bir kural vardır: Her ruhun kaybolmadan önce sadece 8 günü vardır.
@@ -75,7 +75,7 @@ Finalde her şey bittiğinde Dylan, aynada artık kendi yüzünü değil… şey
 
 ---
 
-## 🧠 Oyun Hikayesi: ** 8 DAYS IN THE HELL **
+## 🧠 Oyun Hikayesi: 8 DAYS IN HELL
 
 Ana karakterimiz Dylan, ölümden kaçmak için her türlü kötülüğü yapmış, karanlık geçmişe sahip, dövmeli, sakallı, alkol ve uyuşturucu bağımlısı, işsiz güçsüz bir adamdır. Hırsızlık, dolandırıcılık ve türlü suçlarla hayatta kalırken, hiçbir şeyi ve hiç kimseyi umursamadan yaşamıştır. Dışarıdan umursamaz ve vurdumduymaz görünse de, içinde kendine bile itiraf edemediği bir boşluk ve pişmanlık taşır.
 Yıllar önce, zor bir anda şeytanla bir anlaşma yapmıştır. Bu anlaşma, Dylan'e yalnızca kendi isteğiyle ölme gücü veren bir lanet getirmiştir; yani kendi isteği dışında asla ölememektedir. Karşılığında şeytan bir şart koşmuştur: "Bir gün değer verdiğin biri olursa, onun ruhu bana ait olacak."
