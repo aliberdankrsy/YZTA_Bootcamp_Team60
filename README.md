@@ -9,48 +9,43 @@
 
 ## 👥 Takım Üyeleri
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=1A9YRUDpXmJpCG_UY2B6megsj3DJELin-" width="100" height="100" style="border-radius: 50%" alt="Ali Berdan Karasoy"/>
-      <br/>
-      <strong>Ali Berdan Karasoy</strong><br/>
-      <a href="https://github.com/aliberdankrsy">GitHub</a> |
-      <a href="https://tr.linkedin.com/in/ali-berdan-karasoy-181a34276">LinkedIn</a>
-    </td>
-    <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=1lIIrUQ4pidUZA46aXRgCPorpG-if4ns5" width="100" height="100" style="border-radius: 50%" alt="Sevde Ceyda Koç"/>
-      <br/>
-      <strong>Sevde Ceyda Koç</strong><br/>
-      <a href="https://github.com/sevdeceydaakoc">GitHub</a> |
-      <a href="https://linkedin.com/in/kullanici2">LinkedIn</a>
-    </td>
-    <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=1bU39-0sm6101i6kS-sZUVr-Kufv6af_o" width="100" height="100" style="border-radius: 50%" alt="Zeynep Buse Türkan"/>
-      <br/>
-      <strong>Zeynep Buse Türkan</strong><br/>
-      <a href="https://github.com/zturkan">GitHub</a> |
-      <a href="https://linkedin.com/in/kullanici3">LinkedIn</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://drive.google.com/uc?export=view&id=14LHnD5bD2aDF_5N8AZC3CQnsp852C9e3" width="100" height="100" style="border-radius: 50%" alt="İbrahim Çetin"/>
-      <br/>
-      <strong>İbrahim Çetin</strong><br/>
-      <a href="https://github.com/IBRAHIMMCETIN">GitHub</a> |
-      <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
-    </td>
-    <td align="center">
-      <img src="https://i.imgur.com/your-image5.png" width="100" height="100" style="border-radius: 50%" alt="Reyhan Feyza Karabulut"/>
-      <br/>
-      <strong>Reyhan Feyza Karabulut</strong><br/>
-      <a href="https://github.com/feyza-01">GitHub</a> |
-      <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1A9YRUDpXmJpCG_UY2B6megsj3DJELin-" width="100" height="100" style="border-radius: 50%" alt="Ali Berdan Karasoy"/><br/>
+        <strong>Ali Berdan Karasoy</strong><br/>
+        <a href="https://github.com/aliberdankrsy">GitHub</a> |
+        <a href="https://tr.linkedin.com/in/ali-berdan-karasoy-181a34276">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1lIIrUQ4pidUZA46aXRgCPorpG-if4ns5" width="100" height="100" style="border-radius: 50%" alt="Sevde Ceyda Koç"/><br/>
+        <strong>Sevde Ceyda Koç</strong><br/>
+        <a href="https://github.com/sevdeceydaakoc">GitHub</a> |
+        <a href="https://linkedin.com/in/kullanici2">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1bU39-0sm6101i6kS-sZUVr-Kufv6af_o" width="100" height="100" style="border-radius: 50%" alt="Zeynep Buse Türkan"/><br/>
+        <strong>Zeynep Buse Türkan</strong><br/>
+        <a href="https://github.com/zturkan">GitHub</a> |
+        <a href="https://linkedin.com/in/kullanici3">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=14LHnD5bD2aDF_5N8AZC3CQnsp852C9e3" width="100" height="100" style="border-radius: 50%" alt="İbrahim Çetin"/><br/>
+        <strong>İbrahim Çetin</strong><br/>
+        <a href="https://github.com/IBRAHIMMCETIN">GitHub</a> |
+        <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://i.imgur.com/your-image5.png" width="100" height="100" style="border-radius: 50%" alt="Reyhan Feyza Karabulut"/><br/>
+        <strong>Reyhan Feyza Karabulut</strong><br/>
+        <a href="https://github.com/feyza-01">GitHub</a> |
+        <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 
 📋 **Backlog:** [Google Sheets Backlog](https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing)
