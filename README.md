@@ -20,7 +20,7 @@
         <a href="https://tr.linkedin.com/in/ali-berdan-karasoy-181a34276">LinkedIn</a>
       </td>
       <td align="center">
-        <img src="https://drive.google.com/uc?export=view&id=1lIIrUQ4pidUZA46aXRgCPorpG-if4ns5" width="100" height="100" style="border-radius: 50%" alt="Sevde Ceyda Koç"/><br/>
+        <img src="https://drive.google.com/uc?export=view&id=1kWmwL7yoQmn2Xl-pTshRYL3U3kvx8yeC" width="100" height="100" style="border-radius: 50%" alt="Sevde Ceyda Koç"/><br/>
         <strong>Sevde Ceyda</strong><br/>
         <strong>KOÇ</strong><br/>
         <a href="https://github.com/sevdeceydaakoc">GitHub</a> |
@@ -59,7 +59,7 @@
 
 ## !-- OYUN LOGOSU --!
 <p align="center">
-   <img src="https://drive.google.com/uc?export=view&id=1Da1i83ntjHTUKARs-tcwU4VSNrO9QRe2" alt="Oyun Logo - Splash Art" width="400" style="object-fit: cover; border-radius: 10px;" />
+   <img src="https://drive.google.com/uc?export=view&id=1Da1i83ntjHTUKARs-tcwU4VSNrO9QRe2" alt="Oyun Logo - Splash Art" width="400"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@ Ana karakterimiz Dylan, ölümden kaçmak için her türlü kötülüğü yapmı
 Yıllar önce, zor bir anda şeytanla bir anlaşma yapmıştır. Bu anlaşma, Dylan'e yalnızca kendi isteğiyle ölme gücü veren bir lanet getirmiştir; yani kendi isteği dışında asla ölememektedir. Karşılığında şeytan bir şart koşmuştur: "Bir gün değer verdiğin biri olursa, onun ruhu bana ait olacak."
 
 Dylan bu şartı umursamaz, çünkü hayatta değer verdiği hiçbir şey yoktur. Ta ki Adalind ile tanışana kadar.
-Bir gün Dylan, yıllardır görüşmediği babasının ölüm haberini alır. Babasıyla hiçbir bağı olmayan Dylan, sadece meraktan ve belki de bedava içki bulabilme umuduyla cenazeye gider. Cenaze, eski ve kasvetli bir kilisede yapılır. Tüm kasaba oradadır. Dylan, kendini o ortamda fazlasıyla yabancı hissederken, burada Adalind adında iyi kalpli ve yardımsever bir kadınla karşılaşır. Y, kilisede çalışmakta ve cenaze işlerine yardımcı olmaktadır.
+Bir gün Dylan, yıllardır görüşmediği babasının ölüm haberini alır. Babasıyla hiçbir bağı olmayan Dylan, sadece meraktan ve belki de bedava içki bulabilme umuduyla cenazeye gider. Cenaze, eski ve kasvetli bir kilisede yapılır. Tüm kasaba oradadır. Dylan, kendini o ortamda fazlasıyla yabancı hissederken, burada Adalind adında iyi kalpli ve yardımsever bir kadınla karşılaşır. Adalind, kilisede çalışmakta ve cenaze işlerine yardımcı olmaktadır.
 
 Dylan, Adalind’in saflığı ve içtenliğinden etkilenir. Belki de hayatında ilk defa birine karşı duygusal bir bağ hissetmeye başlar. Adalind, onun kim olduğunu ve geçmişini bilmeden, ona iyi davranan ilk kişidir. Dylan, kendi karanlık tarafını gizleyerek Adalind ile vakit geçirmeye başlar. Karakterini ve gerçek yüzünü Adalind’den saklar. Zamanla aralarında bir yakınlık oluşur ve sevgili olurlar. Dylan için bu ilişki, alışık olmadığı bir durumdur. Yavaş yavaş hayata tutunmaya başlar.
 Aylar geçer. Bir gün Adalind, aniden hastalanır. Sebepsiz bir şekilde hızla kötüleşir. Doktorlar çaresizdir. Dylan, hayatında ilk kez kendisi dışında birini kaybetme korkusunu hisseder. Ve Adalind ölür. Ne yapacağını bilemeyen Dylan, işte o anda yıllar önce yaptığı o lanetli anlaşmayı hatırlar. Şeytan sözünü tutmaktadır. En değer verdiği varlığın ruhunu alma vakti gelmiştir.
@@ -100,12 +100,12 @@ Oyun burada, “To Be Continued...” mesajıyla sona erer.
 
 - 🎨 **2D Roguelike Platform** oyunu
 - 🧍‍♂️ **Tek oyunculu** oynanış
-- 🔫 **Tek silahlı sistem** (zorunlu tasarım)
-- 🗨️ **Absürt diyalog sistemi** _(tamamlanamadı)_
-- 👹 **8 farklı boss mekaniği** _(1 tanesi tamamlandı)_
+- 🔫 **Çeşitli silah sistemi**
+- 🗨️ **Absürt diyalog sistemi**
+- 👹 **8 farklı boss mekaniği**
 - 🧭 **Aksiyon / Macera**
 - 🧱 **Pixel art tasarım**
-- 🧩 **Interaktif görevler** _(şüpheli)_
+- 🧩 **Interaktif görevler**
 
 ---
 
@@ -142,8 +142,6 @@ Oyun burada, “To Be Continued...” mesajıyla sona erer.
 
 ### 5. Global Erişim & Topluluk Yönetimi
 - Çoklu dil desteği (TR / EN / ES)
-- Aktif Discord topluluğu
-- Viral içerikler + influencer işbirlikleri
 
 ### 6. Merchandise
 - Tişört, kupa, poster, sticker vb.
