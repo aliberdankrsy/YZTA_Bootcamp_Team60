@@ -37,7 +37,7 @@
         <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/your-image5.png" width="100" height="100" style="border-radius: 50%" alt="Reyhan Feyza Karabulut"/><br/>
+        <img src="https://drive.google.com/uc?export=view&id=16pfwdNbmjuFSKf4XgKRdGKGmxh8BxOQO" width="100" height="100" style="border-radius: 50%" alt="Reyhan Feyza Karabulut"/><br/>
         <strong>Reyhan Feyza Karabulut</strong><br/>
         <a href="https://github.com/feyza-01">GitHub</a> |
         <a href="https://linkedin.com/in/kullanici4">LinkedIn</a>
