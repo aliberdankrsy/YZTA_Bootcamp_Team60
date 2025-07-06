@@ -212,7 +212,8 @@ Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmı�
 İlk sprint sonunda, hedeflenen teknik altyapının büyük bir kısmı başarıyla tamamlanmıştır. Özellikle giriş ekranı, sahne geçişleri ve hikaye akışı noktasında önemli ilerleme sağlanmıştır. Bununla birlikte, görsel tasarım ve içerik tarafında tamamlanması gereken bazı detaylar hâlen bulunmaktadır. Ayrıca, asset temininde kısmi eksiklikler devam etmektedir. Bu konunun ilerleyen sprintlerde öncelikli olarak ele alınması ve gerekli kaynakların tamamlanması planlanmaktadır.
 Ekip, gerçekleştirilen çalışmalar ve tamamlanan görevler hakkında görüşlerini paylaşmıştır. Takımın toparlanması, iletişimin daha da güçlendirilmesi ve sürecin daha planlı bir şekilde ilerletilmesi gerektiği vurgulanmıştır. Bu doğrultuda, takım içinde görev dağılımlarının netleştirilmesi ve düzenli iletişim süreçlerinin artırılması yönünde karar alınmıştır.
 
-<h4>Sprint Review Katılımcıları</h4>Reyhan Feyza Karabulut, Sevde Ceyda Koç, Ali Berdan Karasoy
+<h4>Sprint Review Katılımcıları</h4></br>
+Reyhan Feyza Karabulut, Sevde Ceyda Koç, Ali Berdan Karasoy
 
 ---
 
@@ -240,6 +241,7 @@ Koyu Yeşil: RPG & Gelişim Sistemleri</br>
 Ten Rengi: Ses, Müzik ve Atmosfer</br>
 Açık Mavi: Mizahi ve Absürt Katmanlar</br>
 Koyu Mor: Ekstra Şeyler (Teknik İyileştirme, Oyun içi Derinlik vb.)</br>
+
 Böylece her product backlog log'larının hangi kategoriye ait olduğu, sprint planlaması ve görev dağılımı sırasında kolayca takip edilebilmiştir.
 
 ---
@@ -247,13 +249,13 @@ Böylece her product backlog log'larının hangi kategoriye ait olduğu, sprint 
 <h4>Proje Yönetimi Tablosu</h4>
 
 <img src="https://drive.google.com/uc?export=view&id=1iTwfiwpc5zL6iTfYhDMMB2kWCXeseHEr" alt="Daily Scrum Görseli" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
-<img src="https://drive.google.com/uc?export=view&id=1T3FG0iZ67-YRtlQkOp_bOGoBDtZdx6nx" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://drive.google.com/uc?export=view&id=1OHK_ilvvmng6cHAwPc-ZEmTq8R26l9CU" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
 
 ---
 
 <h4>Projeden Görüntüler</h4>
 
-<img src="https://drive.google.com/uc?export=view&id=1Tt1QVI3mmMpMktgtHFzPuKmADe-Ahhva" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://drive.google.com/uc?export=view&id=1pZtGcRiJ46addKVZE6PSx3YnVYJ6Uf73" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
 <img src="https://drive.google.com/uc?export=view&id=14FxgWUi0RgbvnzNC4nwrsG_mWBEBmj_B" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
 
 ---
