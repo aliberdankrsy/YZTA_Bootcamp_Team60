@@ -211,7 +211,7 @@ Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmı�
 
 İlk sprint sonunda, hedeflenen teknik altyapının büyük bir kısmı başarıyla tamamlanmıştır. Özellikle giriş ekranı, sahne geçişleri ve hikaye akışı noktasında önemli ilerleme sağlanmıştır. Bununla birlikte, görsel tasarım ve içerik tarafında tamamlanması gereken bazı detaylar hâlen bulunmaktadır. Ayrıca, asset temininde kısmi eksiklikler devam etmektedir. Bu konunun ilerleyen sprintlerde öncelikli olarak ele alınması ve gerekli kaynakların tamamlanması planlanmaktadır.
 Ekip, gerçekleştirilen çalışmalar ve tamamlanan görevler hakkında görüşlerini paylaşmıştır. Takımın toparlanması, iletişimin daha da güçlendirilmesi ve sürecin daha planlı bir şekilde ilerletilmesi gerektiği vurgulanmıştır. Bu doğrultuda, takım içinde görev dağılımlarının netleştirilmesi ve düzenli iletişim süreçlerinin artırılması yönünde karar alınmıştır.
-</br>
+</br></br>
 <img src="https://drive.google.com/uc?export=view&id=1Bj3XZ06GU0bSAVYrW8pc3hsfWFvmsr1z" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
 </br>
 <h4>Sprint Review Katılımcıları</h4>
@@ -225,7 +225,7 @@ Sprint 1 sonunda, oyunun tasarımı ve ilk bölümünün geliştirilmesi üzerin
 Oyun hikayesi ve genel tasarım detaylarının tamamlanması, eksik görsellerin hazırlanması öncelikli hale geldi. Böylece oyunun görsel ve anlatım altyapısı sağlamlaştırılmış olacak.
 Oyun içi ilk bölümün (Level 1) geliştirilmesi hızlandırılacak; sahne geçişleri, kullanıcı arayüzü ve teknik altyapı tamamlanarak oyunun oynanabilir bir prototipi ortaya çıkarılacak.
 Proje sürecinde yaşanan iletişim ve koordinasyon problemlerinin önüne geçmek için daha düzenli ve sıkı takip yapılacak, böylece geliştirme süreci daha verimli ve planlı ilerleyecek.
-</br>
+</br></br>
 <img src="https://drive.google.com/uc?export=view&id=1EFqfCCBy_3km-vbERuribQDrSbnZUUSU" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
 
 ---
