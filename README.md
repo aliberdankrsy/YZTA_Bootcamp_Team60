@@ -16,7 +16,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1A9YRUDpXmJpCG_UY2B6megsj3DJELin-" width="100" height="100" style="border-radius: 50%" alt="Ali Berdan Karasoy"/><br/>
         <strong>Ali Berdan</strong><br/>
         <strong>KARASOY</strong><br/>
-        <h4>Product Owner</h4><br/>
+        <h6>Product Owner</h6>
         <a href="https://github.com/aliberdankrsy">GitHub</a> |
         <a href="https://tr.linkedin.com/in/ali-berdan-karasoy-181a34276">LinkedIn</a>
       </td>
@@ -24,7 +24,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1kWmwL7yoQmn2Xl-pTshRYL3U3kvx8yeC" width="100" height="100" style="border-radius: 50%" alt="Sevde Ceyda Koç"/><br/>
         <strong>Sevde Ceyda</strong><br/>
         <strong>KOÇ</strong><br/>
-        <h4>Scrum Master</h4><br/>
+        <h6>Scrum Master</h6>
         <a href="https://github.com/sevdeceydaakoc">GitHub</a> |
         <a href="https://www.linkedin.com/in/sevde-ceyda-ko%C3%A7-401b26314">LinkedIn</a>
       </td>
@@ -32,7 +32,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1bU39-0sm6101i6kS-sZUVr-Kufv6af_o" width="100" height="100" style="border-radius: 50%" alt="Zeynep Buse Türkan"/><br/>
         <strong>Zeynep Buse</strong><br/>
         <strong>TÜRKAN</strong><br/>
-        <h4>Developer</h4><br/>
+        <h6>Developer</h6>
         <a href="https://github.com/zturkan">GitHub</a> |
         <a href="https://www.linkedin.com/in/zeynep-buse-t%C3%BCrkan">LinkedIn</a>
       </td>
@@ -40,7 +40,7 @@
         <img src="https://drive.google.com/uc?export=view&id=14LHnD5bD2aDF_5N8AZC3CQnsp852C9e3" width="100" height="100" style="border-radius: 50%" alt="İbrahim Çetin"/><br/>
         <strong>İbrahim</strong><br/>
         <strong>ÇETİN</strong><br/>
-        <h4>Developer</h4><br/>
+        <h6>Developer</h6>
         <a href="https://github.com/IBRAHIMMCETIN">GitHub</a> |
         <a href="https://www.linkedin.com/in/ibrahimmcetinn">LinkedIn</a>
       </td>
@@ -48,7 +48,7 @@
         <img src="https://drive.google.com/uc?export=view&id=16pfwdNbmjuFSKf4XgKRdGKGmxh8BxOQO" width="100" height="100" style="border-radius: 50%" alt="Reyhan Feyza Karabulut"/><br/>
         <strong>Reyhan Feyza</strong><br/>
         <strong>KARABULUT</strong><br/>
-        <h4>Developer</h4><br/>
+        <h6>Developer</h6>
         <a href="https://github.com/feyza-01">GitHub</a> |
         <a href="https://www.linkedin.com/in/reyhan-feyza-karabulut-73631333a">LinkedIn</a>
       </td>
