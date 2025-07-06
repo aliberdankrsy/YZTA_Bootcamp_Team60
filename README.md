@@ -58,12 +58,12 @@
 
 ---
 
-## BACKLOG & PROJE YÖNETİMİ TABLOSU
+## Backlog & Proje Yönetimi
 📋 [Backlog & Proje Yönetimi Tablosu - Google Sheets](https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing)
 
 ---
 
-## OYUN LOGOSU
+## Oyun Logosu
 <p align="center">
    <img src="https://drive.google.com/uc?export=view&id=1Da1i83ntjHTUKARs-tcwU4VSNrO9QRe2" alt="Oyun Logo - Splash Art" width="800"/>
 </p>
