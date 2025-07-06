@@ -56,6 +56,7 @@
   </table>
 </p>
 
+---
 
 ## BACKLOG & PROJE YÖNETİMİ TABLOSU
 📋 [Backlog & Proje Yönetimi Tablosu - Google Sheets](https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing)
