@@ -183,7 +183,54 @@ Oyun burada, “To Be Continued...” mesajıyla sona erer.
 ---
 
 ## 🚧 Sprint 1
+
+<h4>Sprint Notları</h4>
+
+Sprint 1'de tamamlanan işlerin açıklamaları, Google E-Tabloda oluşturduğumuz Sprint 1 sekmesinin Notlar sütununda detaylı olarak belirtilmiştir. İş takibi ve açıklamalar bu alanda güncellenmiş ve sprint sürecinde buradan takip edilmiştir.
+
+<h4>Puan Tamamlama Mantığı</h4>
+
+Proje sürecinde tamamlanması gereken toplam 500 puanlık bir backlog bulunmaktadır. Ancak, ilk sprint özel bir duruma sahiptir.Takımların değişikliğinden ötürü bir hafta geç başlanılmıştır. Ayrıca, projenin temel altyapısı ve başlangıç hazırlıkları önceliklendirildiğinden, ilk sprint için daha düşük puan hedefi belirlenmiştir. Bu kapsamda, ilk sprintin 66 puan ile tamamlanması gerektiği kararlaştırılmıştır.
+
+Sprint içinde tamamlanması tahmin edilen puan: <strong>66</strong>
+Sprint içinde tamamlanan puan: <strong>48</strong>
+
+<h4>Daily Scrum</h4>
+
+Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır
 <a href="https://imgur.com/a/95DJB49?s=wa">Daily Scrum - Takım içi görüşmeler.</a>
+
+<h4>Review</h4>
+
+İlk sprint sonunda, hedeflenen teknik altyapının büyük bir kısmı başarıyla tamamlanmıştır. Özellikle giriş ekranı, sahne geçişleri ve hikaye akışı noktasında önemli ilerleme sağlanmıştır. Bununla birlikte, görsel tasarım ve içerik tarafında tamamlanması gereken bazı detaylar hâlen bulunmaktadır. Ayrıca, asset temininde kısmi eksiklikler devam etmektedir. Bu konunun ilerleyen sprintlerde öncelikli olarak ele alınması ve gerekli kaynakların tamamlanması planlanmaktadır.
+Ekip, gerçekleştirilen çalışmalar ve tamamlanan görevler hakkında görüşlerini paylaşmıştır. Takımın toparlanması, iletişimin daha da güçlendirilmesi ve sürecin daha planlı bir şekilde ilerletilmesi gerektiği vurgulanmıştır. Bu doğrultuda, takım içinde görev dağılımlarının netleştirilmesi ve düzenli iletişim süreçlerinin artırılması yönünde karar alınmıştır.
+
+<h4>Sprint Review Katılımcıları</h4>
+Reyhan Feyza Karabulut, Sevde Ceyda Koç, Ali Berdan Karasoy
+
+<h4>Sprint Retrospective</h4>
+
+Sprint 1 sonunda, oyunun tasarımı ve ilk bölümünün geliştirilmesi üzerine yoğunlaşılması gerektiği kararlaştırıldı. Projenin ilerleyebilmesi için;
+Oyun hikayesi ve genel tasarım detaylarının tamamlanması, eksik görsellerin hazırlanması öncelikli hale geldi. Böylece oyunun görsel ve anlatım altyapısı sağlamlaştırılmış olacak.
+Oyun içi ilk bölümün (Level 1) geliştirilmesi hızlandırılacak; sahne geçişleri, kullanıcı arayüzü ve teknik altyapı tamamlanarak oyunun oynanabilir bir prototipi ortaya çıkarılacak.
+Proje sürecinde yaşanan iletişim ve koordinasyon problemlerinin önüne geçmek için daha düzenli ve sıkı takip yapılacak, böylece geliştirme süreci daha verimli ve planlı ilerleyecek.
+
+<h4>Backlog Düzeni</h4>
+
+Proje sürecimizde hazırlanan Product Backlog, bir sonraki sprintlerin temelini atacak şekilde planlanmıştır. Sprint başına belirlenen maksimum puan limitini aşmamak şartıyla backlog item’ları sprintlere dengeli biçimde dağıtılmıştır.
+Backlog item’larımızın takibini ve kategorilendirmesini kolaylaştırmak adına, görevler Google E-Tablo üzerinden renk kodlarıyla ayrılmıştır. Bu renkler, görev türünü değil, ait oldukları backlog kategori başlıklarını temsil etmektedir. Tablomuzda kullanılan renkler ve anlamları şöyledir:
+
+Sarı: Proje Hazırlık ve Altyapı Kurulumu
+Açık Mavi: Hikaye ve Evren Kurgusu
+Pembe: Asset & Sanat Hazırlığı
+Açık Yeşil: Temel Oynanış Mekanikleri
+Mor: Seviye Tasarımı & İçerikler
+Gül Kurusu: Boss Sistemleri & Mekanikler
+Koyu Yeşil: RPG & Gelişim Sistemleri
+Ten Rengi: Ses, Müzik ve Atmosfer
+Açık Mavi: Mizahi ve Absürt Katmanlar
+Koyu Mor: Ekstra Şeyler (Teknik İyileştirme, Oyun içi Derinlik vb.)
+Böylece her product backlog log'larının hangi kategoriye ait olduğu, sprint planlaması ve görev dağılımı sırasında kolayca takip edilebilmiştir
 
 <h4>Proje Yönetimi Tablosu</h4>
 
