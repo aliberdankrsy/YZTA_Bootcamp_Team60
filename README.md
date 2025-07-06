@@ -202,6 +202,7 @@ Sprint içinde tamamlanan puan: <strong>48</strong>
 <h4>Daily Scrum</h4>
 
 Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.</br>
+
 <a href="https://imgur.com/a/95DJB49?s=wa">Daily Scrum - Takım içi görüşmeler.</a>
 
 ---
@@ -211,8 +212,7 @@ Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmı�
 İlk sprint sonunda, hedeflenen teknik altyapının büyük bir kısmı başarıyla tamamlanmıştır. Özellikle giriş ekranı, sahne geçişleri ve hikaye akışı noktasında önemli ilerleme sağlanmıştır. Bununla birlikte, görsel tasarım ve içerik tarafında tamamlanması gereken bazı detaylar hâlen bulunmaktadır. Ayrıca, asset temininde kısmi eksiklikler devam etmektedir. Bu konunun ilerleyen sprintlerde öncelikli olarak ele alınması ve gerekli kaynakların tamamlanması planlanmaktadır.
 Ekip, gerçekleştirilen çalışmalar ve tamamlanan görevler hakkında görüşlerini paylaşmıştır. Takımın toparlanması, iletişimin daha da güçlendirilmesi ve sürecin daha planlı bir şekilde ilerletilmesi gerektiği vurgulanmıştır. Bu doğrultuda, takım içinde görev dağılımlarının netleştirilmesi ve düzenli iletişim süreçlerinin artırılması yönünde karar alınmıştır.
 
-<h4>Sprint Review Katılımcıları</h4>
-Reyhan Feyza Karabulut, Sevde Ceyda Koç, Ali Berdan Karasoy
+<h4>Sprint Review Katılımcıları</h4>Reyhan Feyza Karabulut, Sevde Ceyda Koç, Ali Berdan Karasoy
 
 ---
 
@@ -230,15 +230,15 @@ Proje sürecinde yaşanan iletişim ve koordinasyon problemlerinin önüne geçm
 Proje sürecimizde hazırlanan Product Backlog, bir sonraki sprintlerin temelini atacak şekilde planlanmıştır. Sprint başına belirlenen maksimum puan limitini aşmamak şartıyla backlog item’ları sprintlere dengeli biçimde dağıtılmıştır.
 Backlog item’larımızın takibini ve kategorilendirmesini kolaylaştırmak adına, görevler Google E-Tablo üzerinden renk kodlarıyla ayrılmıştır. Bu renkler, görev türünü değil, ait oldukları backlog kategori başlıklarını temsil etmektedir. Tablomuzda kullanılan renkler ve anlamları şöyledir:
 
-Sarı: Proje Hazırlık ve Altyapı Kurulumu
-Açık Mavi: Hikaye ve Evren Kurgusu
-Pembe: Asset & Sanat Hazırlığı
-Açık Yeşil: Temel Oynanış Mekanikleri
-Mor: Seviye Tasarımı & İçerikler
-Gül Kurusu: Boss Sistemleri & Mekanikler
-Koyu Yeşil: RPG & Gelişim Sistemleri
-Ten Rengi: Ses, Müzik ve Atmosfer
-Açık Mavi: Mizahi ve Absürt Katmanlar
+Sarı: Proje Hazırlık ve Altyapı Kurulumu</br>
+Açık Mavi: Hikaye ve Evren Kurgusu</br>
+Pembe: Asset & Sanat Hazırlığı</br>
+Açık Yeşil: Temel Oynanış Mekanikleri</br>
+Mor: Seviye Tasarımı & İçerikler</br>
+Gül Kurusu: Boss Sistemleri & Mekanikler</br>
+Koyu Yeşil: RPG & Gelişim Sistemleri</br>
+Ten Rengi: Ses, Müzik ve Atmosfer</br>
+Açık Mavi: Mizahi ve Absürt Katmanlar</br>
 Koyu Mor: Ekstra Şeyler (Teknik İyileştirme, Oyun içi Derinlik vb.)</br>
 Böylece her product backlog log'larının hangi kategoriye ait olduğu, sprint planlaması ve görev dağılımı sırasında kolayca takip edilebilmiştir.
 
