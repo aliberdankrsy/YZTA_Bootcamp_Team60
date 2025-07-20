@@ -269,7 +269,11 @@ Böylece her product backlog log'larının hangi kategoriye ait olduğu, sprint 
 <h4>Sprint Notları</h4>
 
 Sprint 2'de tamamlanan işlerin açıklamaları, Google E-Tabloda oluşturduğumuz Sprint 2 sekmesinin Notlar sütununda detaylı olarak belirtilmiştir. İş takibi ve açıklamalar bu alanda güncellenmiş ve sprint sürecinde buradan takip edilmiştir.
-📋 [Backlog & Proje Yönetimi Tablosu - Google Sheets](https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing)
+
+</br>
+
+[)Backlog & Proje Yönetimi Tablosu - Google Sheets]
+(https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing
 ---
 
 <h4>Daily Scrum</h4>
@@ -317,7 +321,7 @@ Ancak bazı takım üyeleri kişisel nedenlerden ötürü yeterince katkı sağl
 
 <img src="https://drive.google.com/uc?export=view&id=1sJZXVRHTEcNAVbx0W2TuNDPAA7xrSMWt" alt="Daily Scrum Görseli" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
 <img src="https://drive.google.com/uc?export=view&id=1RMfWmdR4j1ttPlyG4KJYtZM9jXX3ME32" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
-<img src="https://drive.google.com/uc?export=view&id=1yQ2LSq_Y57KmJcwKoZcaah51BxLWS69" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://drive.google.com/uc?export=view&id=1yQ2LSq_Y57KmJcwKoZcaah51BxLWS69_" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
 
 ---
 
