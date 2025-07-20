@@ -268,6 +268,11 @@ Böylece her product backlog log'larının hangi kategoriye ait olduğu, sprint 
 
 <h4>Sprint Notları</h4>
 
+Proje sürecinde tamamlanması gereken toplam 500 puanlık bir backlog bulunmaktadır. Bu kapsamda, İkinci sprintin 86 puan ile tamamlanması gerektiği kararlaştırılmıştır.
+
+Sprint içinde tamamlanması tahmin edilen puan: <strong>86</strong></br>
+Sprint içinde tamamlanan puan: <strong>49</strong>
+
 Sprint 2'de tamamlanan işlerin açıklamaları, Google E-Tabloda oluşturduğumuz Sprint 2 sekmesinin Notlar sütununda detaylı olarak belirtilmiştir. İş takibi ve açıklamalar bu alanda güncellenmiş ve sprint sürecinde buradan takip edilmiştir.
 
 </br>
