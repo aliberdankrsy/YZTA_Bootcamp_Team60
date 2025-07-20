@@ -272,8 +272,9 @@ Sprint 2'de tamamlanan işlerin açıklamaları, Google E-Tabloda oluşturduğum
 
 </br>
 
-[)Backlog & Proje Yönetimi Tablosu - Google Sheets]
-(https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing
+<a href="https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing" target="_blank">
+  Backlog & Proje Yönetimi Tablosu - Google Sheets
+</a>
 ---
 
 <h4>Daily Scrum</h4>
