@@ -269,7 +269,7 @@ Böylece her product backlog log'larının hangi kategoriye ait olduğu, sprint 
 <h4>Sprint Notları</h4>
 
 Sprint 2'de tamamlanan işlerin açıklamaları, Google E-Tabloda oluşturduğumuz Sprint 2 sekmesinin Notlar sütununda detaylı olarak belirtilmiştir. İş takibi ve açıklamalar bu alanda güncellenmiş ve sprint sürecinde buradan takip edilmiştir.
-
+📋 [Backlog & Proje Yönetimi Tablosu - Google Sheets](https://docs.google.com/spreadsheets/d/14L5NF2ES4KCxFY0G8S1I0zOHYeCIbRe8UEfIN969b1Y/edit?usp=sharing)
 ---
 
 <h4>Daily Scrum</h4>
