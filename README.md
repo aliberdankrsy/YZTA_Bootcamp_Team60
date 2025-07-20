@@ -264,6 +264,63 @@ Böylece her product backlog log'larının hangi kategoriye ait olduğu, sprint 
 
 ---
 
+## 🚧 Sprint 2
+
+<h4>Sprint Notları</h4>
+
+Sprint 2'de tamamlanan işlerin açıklamaları, Google E-Tabloda oluşturduğumuz Sprint 2 sekmesinin Notlar sütununda detaylı olarak belirtilmiştir. İş takibi ve açıklamalar bu alanda güncellenmiş ve sprint sürecinde buradan takip edilmiştir.
+
+---
+
+<h4>Daily Scrum</h4>
+
+Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.</br>
+
+<a href="https://imgur.com/a/4QuykVh?s=wa">Daily Scrum - Takım içi görüşmeler.</a>
+
+---
+
+<h4>Sprint Review 2</h4>
+
+Bu sprintte karakter animasyonları (idle, saldırı, zıplama, ölüm) başarılı şekilde tamamlandı ve hareket setleri (yürüme, zıplama, dash, saldırı) animasyonlarla bütünlük içinde çalışıyor. Hikaye anlatımı için storyboard hazırlanmasına başlandı ve görsel hikaye sistemi üzerine çalışmalar sürüyor.
+
+Backlog’daki işlerin yaklaşık yarısı tamamlandı, şu an için güncelleme ihtiyacı bulunmamakta. Önümüzdeki süreçte tilemap yapımı, oyunun oynanabilir hale getirilmesi, oyun içi hikaye metni ve karakterler arası etkileşim konuları önceliklendirilecek.
+
+Ekip üyelerinin bazı kişisel sebeplerinden dolayı iletişim sınırlı olsa da, düzenli olarak toplanılıp ilerleme değerlendirmesi yapıldı.
+</br></br>
+<img src="https://drive.google.com/uc?export=view&id=1cuTlhvjNX4hH8bUSsVlysfYoRsgiwBsB" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+</br>
+<h4>Sprint Review Katılımcıları</h4>
+Reyhan Feyza Karabulut, Sevde Ceyda Koç, Ali Berdan Karasoy, Zeynep Buse Türkan, İbrahim Çetin
+
+---
+
+<h4>Sprint 2 Retrospective</h4>
+
+Bu sprintte genel çerçeve daha netleşti, animasyonlar, tasarımlar ve asset'ler büyük ölçüde tamamlandı. Önceki sprint'e kıyasla projeye daha fazla vakit ayrıldı ve ekip içi uyumda ilerleme kaydedildi.
+
+Ancak bazı takım üyeleri kişisel nedenlerden ötürü yeterince katkı sağlayamadı. Bu durum, özellikle oynanış geliştirme sürecinde karmaşıklık yaratırken takım motivasyonunu da etkiledi.
+
+İletişim eksikliklerine rağmen belirli aralıklarla toplanarak proje değerlendirmesi yapıldı. İlerleyen sprintlerde ekip üyelerinin müsait zamanlarında eş zamanlı çalışması teşvik edilebilir. Ayrıca oyun mekaniklerinin tamamlanabilirliği açısından bazı kısımlar daha sade hale getirilebilir.
+</br></br>
+<img src="https://drive.google.com/uc?export=view&id=1xtKsNe-9rDvc1SZCt002iutrqj8nmr8l" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+
+---
+
+<h4>Proje Yönetimi Tablosu</h4>
+
+<img src="https://drive.google.com/uc?export=view&id=1-sk4KdwP9tIi7ptjdY3kADXDQc0ZCV8x" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+
+---
+
+<h4>Projeden Görüntüler</h4>
+
+<img src="https://drive.google.com/uc?export=view&id=1sJZXVRHTEcNAVbx0W2TuNDPAA7xrSMWt" alt="Daily Scrum Görseli" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://drive.google.com/uc?export=view&id=1RMfWmdR4j1ttPlyG4KJYtZM9jXX3ME32" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://drive.google.com/uc?export=view&id=1yQ2LSq_Y57KmJcwKoZcaah51BxLWS69" alt="Görsel" width="400" height="200" style="object-fit: cover; border-radius: 10px;" />
+
+---
+
 **📌 Not:** Bu proje bir öğrenci/grup çalışmasıdır. Amaç; oyun geliştirme süreçlerini deneyimlemek, ekip çalışmasını güçlendirmek ve eğlenerek öğrenmektir.
 
 ---
