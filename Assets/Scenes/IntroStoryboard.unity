@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Storyboard Card 5 - Title
+  m_text: "Cehennem G\xFCnl\xFCkleri"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -559,30 +559,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 697705365}
-  fullText: 'What is Lorem Ipsum?
-
-    Lorem Ipsum is simply dummy text of the printing
-    and typesetting industry. Lorem Ipsum has been the industry''s standard dummy
-    text ever since the 1500s, when an unknown printer took a galley of type and
-    scrambled it to make a type specimen book. It has survived not only five centuries,
-    but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing
-    Lorem Ipsum passages, and more recently with desktop publishing software like
-    Aldus PageMaker including versions of Lorem Ipsum.
-
-
-
-    Why do we use it?
-
-    It
-    is a long established fact that a reader will be distracted by the readable content
-    of a page when looking at its layout. The point of using Lorem Ipsum is that
-    it has a more-or-less normal distribution of letters, as opposed to using ''Content
-    here, content here'', making it look like readable English. Many desktop publishing
-    packages and web page editors now use Lorem Ipsum as their default model text,
-    and a search for ''lorem ipsum'' will uncover many web sites still in their infancy.
-    Various versions have evolved over the years, sometimes by accident, sometimes
-    on purpose (injected humour and the like).'
+  fullText: "Dylan, cehennemin derinliklerinde g\xF6zlerini a\xE7t\u0131\u011F\u0131nda,
+    yer ayaklar\u0131n\u0131n alt\u0131ndan \xE7ekiliyordu.Zemin yoktu.G\xF6ky\xFCz\xFC
+    yoktu.Sadece d\xFC\u015F\xFC\u015F vard\u0131.Bo\u015Flukta as\u0131l\u0131 kald\u0131\u011F\u0131
+    bir anda, yank\u0131lanan u\u011Fursuz bir ses duyuldu: \u201C Her ruhun yaln\u0131zca
+    7 g\xFCn\xFC vard\u0131r.\nE\u011Fer bu s\xFCrede \xE7\u0131kamazsa, sonsuza
+    dek burada kal\u0131r.\u201D\n\nKaybolur.Unutulur.Yava\u015F\xE7a \xE7\xF6z\xFCl\xFCr,
+    kendini bile hat\u0131rlamaz olur.Dylan, cehennemin g\xF6\u011Fs\xFCnde bir darbe
+    gibi a\xE7t\u0131 g\xF6zlerini.Nerede oldu\u011Funu, neden burada oldu\u011Funu,
+    neyle kar\u015F\u0131la\u015Faca\u011F\u0131n\u0131 biliyordu art\u0131k.\nVe
+    tek bir hedefi vard\u0131: Adalind\u2019in ruhunu bulmak.Ama bu yol d\xFCz bir
+    yol de\u011Fildi.\n\nOnu hemen Adalind\u2019e g\xF6t\xFCrmeyecekti.\n\u0130lk
+    \xF6nce kendi kirli ge\xE7mi\u015Finin i\xE7inden ge\xE7mesi gerekiyordu.\nCehennem,
+    arad\u0131\u011F\u0131n\u0131 hemen vermezdi.\n\xD6nce seni soyup ortaya \xE7\u0131kar\u0131r.\n\u0130lk
+    g\xFCn\u2026 Dylan\u2019\u0131n kendi kibriyle y\xFCzle\u015Fti\u011Fi bir d\xF6ng\xFCyle
+    ba\u015Flad\u0131.\n\u0130kinci g\xFCn\u2026 \n\xDC\xE7\xFCnc\xFC g\xFCn\u2026\nHer
+    y\xFCzle\u015Fme\u2026 \nBir anahtard\u0131.\n\nAdalind\u2019in ruhuna giden
+    kap\u0131 ancak bu \u015Fekilde a\xE7\u0131labilirdi.\nG\xFCnler birer birer
+    t\xFCkendi.Ve cehennem f\u0131s\u0131ldamaya ba\u015Flad\u0131:\u201CAlt\u0131nc\u0131
+    g\xFCn\u2026Son bir g\xFCn\xFCn kald\u0131.Ya onu kurtar\u0131rs\u0131n\u2026Ya
+    da o da seninle birlikte unutulur.\u201DDylan art\u0131k yaln\u0131zca ge\xE7mi\u015Fiyle
+    de\u011Fil, zamanla da sava\u015F halindeydi.\n7. g\xFCn\xFCn sonunda, Adalind\u2019in
+    ruhu yok olmadan \xF6nce ona ula\u015Fmas\u0131 gerekiyordu. \nVe \xF6n\xFCnde
+    sadece tek kap\u0131 kalm\u0131\u015Ft\u0131:\u015Eeytan\u0131n Saray\u0131.\n"
   typingSpeed: 0.05
   audioSource: {fileID: 795902917}
   typeSound: {fileID: 8300000, guid: 2d9b42f274e6c304b9393ea599a9640e, type: 3}
@@ -653,8 +652,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1275,8 +1274,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1403,7 +1402,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Storyboard Card 4 - Title
+  m_text: Son Nefes
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -1575,30 +1574,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 2106538268}
-  fullText: 'What is Lorem Ipsum?
-
-    Lorem Ipsum is simply dummy text of the printing
-    and typesetting industry. Lorem Ipsum has been the industry''s standard dummy
-    text ever since the 1500s, when an unknown printer took a galley of type and
-    scrambled it to make a type specimen book. It has survived not only five centuries,
-    but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing
-    Lorem Ipsum passages, and more recently with desktop publishing software like
-    Aldus PageMaker including versions of Lorem Ipsum.
-
-
-
-    Why do we use it?
-
-    It
-    is a long established fact that a reader will be distracted by the readable content
-    of a page when looking at its layout. The point of using Lorem Ipsum is that
-    it has a more-or-less normal distribution of letters, as opposed to using ''Content
-    here, content here'', making it look like readable English. Many desktop publishing
-    packages and web page editors now use Lorem Ipsum as their default model text,
-    and a search for ''lorem ipsum'' will uncover many web sites still in their infancy.
-    Various versions have evolved over the years, sometimes by accident, sometimes
-    on purpose (injected humour and the like).'
+  fullText: "Adalind, hastane odas\u0131nda uyurken                                                                                                                  
+    Dylan ona bakar, kendi i\xE7indeki karanl\u0131kla ba\u015F ba\u015Fa kal\u0131rd\u0131.\nHer
+    \u015Feyin nedenini sorgular gibi\u2026                                                                                                                         
+    ama en \xE7ok da ne zaman ba\u015Flad\u0131\u011F\u0131n\u0131.\n\nBir g\xFCn,
+    gece yar\u0131s\u0131\u2026 her zamanki gibi ba\u015F\u0131nda beklerken, makine
+    sesi kesildi.\nVe o sessizlik Dylan\u2019\u0131n i\xE7ini bir b\u0131\xE7ak gibi
+    yard\u0131.\n\nAdalind art\u0131k nefes alm\u0131yordu.\n"
   typingSpeed: 0.05
   audioSource: {fileID: 795902917}
   typeSound: {fileID: 8300000, guid: 2d9b42f274e6c304b9393ea599a9640e, type: 3}
@@ -1826,30 +1808,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 289641007}
-  fullText: 'What is Lorem Ipsum?
-
-    Lorem Ipsum is simply dummy text of the printing
-    and typesetting industry. Lorem Ipsum has been the industry''s standard dummy
-    text ever since the 1500s, when an unknown printer took a galley of type and
-    scrambled it to make a type specimen book. It has survived not only five centuries,
-    but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing
-    Lorem Ipsum passages, and more recently with desktop publishing software like
-    Aldus PageMaker including versions of Lorem Ipsum.
-
-
-
-    Why do we use it?
-
-    It
-    is a long established fact that a reader will be distracted by the readable content
-    of a page when looking at its layout. The point of using Lorem Ipsum is that
-    it has a more-or-less normal distribution of letters, as opposed to using ''Content
-    here, content here'', making it look like readable English. Many desktop publishing
-    packages and web page editors now use Lorem Ipsum as their default model text,
-    and a search for ''lorem ipsum'' will uncover many web sites still in their infancy.
-    Various versions have evolved over the years, sometimes by accident, sometimes
-    on purpose (injected humour and the like).'
+  fullText: "Terk edilmi\u015F kilisenin duvarlar\u0131, r\xFCzg\xE2rda inleyen bir
+    ge\xE7mi\u015Fin f\u0131s\u0131lt\u0131s\u0131n\u0131 ta\u015F\u0131r. Gece,
+    Dylan\u2019\u0131n \xFCst\xFCne \xE7\xF6km\xFC\u015F bir kefen gibi serilmi\u015Fken;
+    ayaklar\u0131n\u0131n alt\u0131ndaki ta\u015F zemin, kurumu\u015F kanla boyanm\u0131\u015F
+    gibidir.\nDylan\u2019\u0131n bedeni yorgun, ruhu harap, g\xF6zleri ise her \u015Feyden
+    vazge\xE7mi\u015F bir karanl\u0131kla parlar. \u0130\xE7indeki t\xFCm sesler
+    susmu\u015F, sadece \xF6l\xFCm\xFCn so\u011Fuk \xE7a\u011Fr\u0131s\u0131 kalm\u0131\u015Ft\u0131r.\n\nTam
+    o an, g\xF6lgelerden s\u0131zan bir varl\u0131k belirir. Ne tamamen karanl\u0131kt\u0131r,
+    ne de bir \u0131\u015F\u0131k. Sanki ikisinin de \xF6tesinde; hem vaat eden hem
+    yutan bir bo\u015Fluktur. O, bir teklifin \u015Fekil bulmu\u015F h\xE2lidir \u2014
+    ka\xE7\u0131n\u0131lmaz, cazip ve i\u011Fren\xE7.\n\nDylan\u2019\u0131n hayat\u0131
+    boyunca ka\xE7t\u0131\u011F\u0131 her kap\u0131 kapanm\u0131\u015Ft\u0131r. Art\u0131k
+    elinde sadece bir se\xE7enek vard\u0131r: \xD6lmeyi beklemek.\nVe i\u015Fte o
+    anda, \u015Eeytan ona lanetli bir teklif sunar: Art\u0131k \xF6l\xFCm Dylan i\xE7in
+    s\u0131radan bir son de\u011Fildir. Ona, yaln\u0131zca kendi iradesiyle ger\xE7ekle\u015Febilecek
+    bir \xF6l\xFCm bah\u015Fedilir. Bu, bir kurtulu\u015F gibi g\xF6r\xFCnse de asl\u0131nda
+    a\u011F\u0131r bir lanetin ba\u015Flang\u0131c\u0131d\u0131r.\n\u0130stedi\u011Fi
+    an bu d\xFCnyadan \xE7ekip gitme g\xFCc\xFCne sahip olacakt\u0131r. Ne ya\u015Fl\u0131l\u0131k,
+    ne hastal\u0131k, ne de ba\u015Fka bir tehdit onun hayat\u0131n\u0131 sona erdirebilir.
+    Ancak kendi iste\u011Fiyle \xF6lmek isterse, \xF6l\xFCm gelip onu alacakt\u0131r.\n\nFakat
+    bu g\xFC\xE7, kar\u015F\u0131l\u0131ks\u0131z verilmemi\u015Ftir. \u015Eeytan\u0131n
+    f\u0131s\u0131lt\u0131lar\u0131 anla\u015Fman\u0131n ger\xE7ek bedelini a\xE7\u0131klar:\n\n\u201CBir
+    g\xFCn kalbinde bir k\u0131v\u0131lc\u0131m yanarsa, e\u011Fer birini ger\xE7ekten
+    seversen, onun ruhu benim olacak. De\u011Fer verece\u011Fin her varl\u0131k,
+    benimle yaz\u0131lm\u0131\u015F kaderine mahk\xFBm olur.\u201D\n\nBu s\xF6z,
+    Dylan\u2019\u0131n kaderine m\xFCh\xFCr gibi i\u015Flenir.\nAma o an, Dylan ne
+    \xFCrperir ne de d\xFC\u015F\xFCn\xFCr. Hayatta sevdi\u011Fi hi\xE7 kimse yoktur.
+    Hi\xE7bir ba\u011F, hi\xE7bir de\u011Fer, hi\xE7bir umut.\nKaranl\u0131\u011F\u0131n
+    i\xE7inde, bu s\xF6z ona bir tehdit gibi de\u011Fil; yaln\u0131zca bo\u015F bir
+    ihtimal gibi gelir.\nBu y\xFCzden hi\xE7 teredd\xFCt etmeden kabul eder.\n\nVe
+    anla\u015Fma tamamlan\u0131r.\nGeri d\xF6n\xFC\u015Fs\xFCz bir yol ba\u015Flam\u0131\u015Ft\u0131r.\n"
   typingSpeed: 0.05
   audioSource: {fileID: 795902917}
   typeSound: {fileID: 8300000, guid: 2d9b42f274e6c304b9393ea599a9640e, type: 3}
@@ -2084,30 +2073,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1235129708}
-  fullText: 'What is Lorem Ipsum?
-
-    Lorem Ipsum is simply dummy text of the printing
-    and typesetting industry. Lorem Ipsum has been the industry''s standard dummy
-    text ever since the 1500s, when an unknown printer took a galley of type and
-    scrambled it to make a type specimen book. It has survived not only five centuries,
-    but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing
-    Lorem Ipsum passages, and more recently with desktop publishing software like
-    Aldus PageMaker including versions of Lorem Ipsum.
-
-
-
-    Why do we use it?
-
-    It
-    is a long established fact that a reader will be distracted by the readable content
-    of a page when looking at its layout. The point of using Lorem Ipsum is that
-    it has a more-or-less normal distribution of letters, as opposed to using ''Content
-    here, content here'', making it look like readable English. Many desktop publishing
-    packages and web page editors now use Lorem Ipsum as their default model text,
-    and a search for ''lorem ipsum'' will uncover many web sites still in their infancy.
-    Various versions have evolved over the years, sometimes by accident, sometimes
-    on purpose (injected humour and the like).'
+  fullText: "Mevsim de\u011Fi\u015Fmi\u015Fti ama Dylan\u2019\u0131n i\xE7inde zaman
+    donmu\u015F gibiydi.Adalind\u2019in g\xFCl\xFC\u015F\xFC eskisi gibi parlam\u0131yordu.
+    Yorgundu art\u0131k. C\xFCmleleri daha k\u0131sa, ad\u0131mlar\u0131 daha a\u011F\u0131rd\u0131.\xD6nce
+    k\xFC\xE7\xFCk \u015Feylerdi fark edilen: bir ba\u015F d\xF6nmesi, bir halsizlik.
+    Sonra g\xF6z altlar\u0131nda beliren solgunluk, g\xF6zlerinde t\xFCkenmi\u015F
+    bir \u0131\u015F\u0131k.\n\nDoktorlar, anlam veremedikleri belirtilerden bahsediyordu.\n\nTestler,
+    te\u015Fhisler, tedaviler\u2026 ama hepsi nafileydi.Sanki bedeninin i\xE7inde
+    g\xF6r\xFCnmeyen bir el, yava\u015F\xE7a ya\u015Fam\u0131 s\xF6k\xFCp al\u0131yordu.\n\nDylan
+    \xE7aresizdi.\n\u0130lk kez kendisi d\u0131\u015F\u0131nda biri i\xE7in korkuyordu.\n\u0130lk
+    kez birinin kayb\u0131, kendi \xF6l\xFCm\xFCnden daha \xFCrk\xFCt\xFCc\xFC geliyordu.\n\nVe
+    bir yanma\u2026 g\xF6\u011Fs\xFCnde, y\u0131llar \xF6nce m\xFCh\xFCrlenmi\u015F
+    d\xF6vmenin alt\u0131ndan y\xFCkselen korkun\xE7 bir yanma.\n\nO sesi yeniden
+    i\u015Fitti.Bo\u011Fuk, u\u011Fursuz, tan\u0131d\u0131k: \u201CDe\u011Fer verdi\u011Fin
+    biri\u2026\u201D\n"
   typingSpeed: 0.05
   audioSource: {fileID: 795902917}
   typeSound: {fileID: 8300000, guid: 2d9b42f274e6c304b9393ea599a9640e, type: 3}
@@ -2206,30 +2185,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1192303163}
-  fullText: 'What is Lorem Ipsum?
-
-    Lorem Ipsum is simply dummy text of the printing
-    and typesetting industry. Lorem Ipsum has been the industry''s standard dummy
-    text ever since the 1500s, when an unknown printer took a galley of type and
-    scrambled it to make a type specimen book. It has survived not only five centuries,
-    but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing
-    Lorem Ipsum passages, and more recently with desktop publishing software like
-    Aldus PageMaker including versions of Lorem Ipsum.
-
-
-
-    Why do we use it?
-
-    It
-    is a long established fact that a reader will be distracted by the readable content
-    of a page when looking at its layout. The point of using Lorem Ipsum is that
-    it has a more-or-less normal distribution of letters, as opposed to using ''Content
-    here, content here'', making it look like readable English. Many desktop publishing
-    packages and web page editors now use Lorem Ipsum as their default model text,
-    and a search for ''lorem ipsum'' will uncover many web sites still in their infancy.
-    Various versions have evolved over the years, sometimes by accident, sometimes
-    on purpose (injected humour and the like).'
+  fullText: "Cehennemde yedinci g\xFCnd\xFC.Dylan art\u0131k yolun sonundayd\u0131.Arkada
+    kalan g\xFCnahlar, \xF6n\xFCnde kalan tek bir \u015Fey: Adalind\u2019in ruhu.\n\nYukar\u0131da,
+    saray\u0131n tepesinde as\u0131l\u0131yd\u0131.Hareketsiz.Zaman bitmek \xFCzereydi.Cehennemin
+    kural\u0131 a\xE7\u0131kt\u0131.Sadece 7 g\xFCn\u2026Kap\u0131lar a\xE7\u0131ld\u0131.\u015Eeytan
+    oradayd\u0131.\nNe devasa bir yarat\u0131k, ne de \xE7\u0131lg\u0131n bir d\xFC\u015Fman.\nSadece\u2026
+    bitmeyen bir y\xFCz.\n\u0130\xE7inde Dylan\u2019\u0131n par\xE7alar\u0131 olan,
+    tan\u0131d\u0131k bir karanl\u0131k.\n\nHi\xE7bir \u015Fey s\xF6ylemedi.\u0130kisi
+    de biliyordu ne yap\u0131lmas\u0131 gerekti\u011Fini.Sava\u015F k\u0131sa s\xFCrd\xFC.\n\u0130lk
+    darbeler keskin, son darbeler sessizdi.\nDylan, \u015Feytan\u0131 yere serdi\u011Finde
+    hi\xE7bir zafer hissi duymad\u0131.\n\nSadece elini uzatt\u0131.Ve \u015Feytan\u0131n
+    g\xF6\u011Fs\xFCnden o lanetli anla\u015Fman\u0131n \xF6z\xFCn\xFC s\xF6k\xFCp
+    ald\u0131.Adalind\u2019in ruhunu tutan zincirler ayn\u0131 anda \xE7\xF6z\xFCld\xFC.\nO
+    anda\u2026 Adalind g\xF6\u011Fe y\xFCkseldi.Ve kayboldu.\nSessiz, iz b\u0131rakmadan.Hafif,
+    \xF6zg\xFCr ve tertemiz.\n\nDylan g\xF6zlerini a\xE7t\u0131\u011F\u0131nda, tekrar
+    d\xFCnyadayd\u0131.\nAsfalta yap\u0131\u015Fm\u0131\u015F bedeniyle so\u011Fuk
+    havay\u0131 ci\u011Ferlerine \xE7ekti.Hayattayd\u0131.Ama i\xE7eride bir \u015Fey\u2026
+    bozuktu.Arabaya atlad\u0131.Do\u011Fruca Adalind\u2019in mezar\u0131na gitmek
+    i\xE7in yola koyuldu.\n\nCamdan d\u0131\u015Far\u0131 bakm\u0131yordu.Ama\u2026
+    bir anl\u0131\u011F\u0131na dikiz aynas\u0131na g\xF6z kayd\u0131.Ve o an, her
+    \u015Fey de\u011Fi\u015Fti.Aynada kendisi yoktu.Onun yerinde, \u015Feytan\u0131n
+    karanl\u0131k silueti oturuyordu.Boynuzlar. Derin g\xF6zler.Tan\u0131d\u0131k
+    bir g\xFCl\xFCmseme.\n\n"
   typingSpeed: 0.05
   audioSource: {fileID: 795902917}
   typeSound: {fileID: 8300000, guid: 2d9b42f274e6c304b9393ea599a9640e, type: 3}
@@ -2615,30 +2592,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 2118382885}
-  fullText: 'What is Lorem Ipsum?
-
-    Lorem Ipsum is simply dummy text of the printing
-    and typesetting industry. Lorem Ipsum has been the industry''s standard dummy
-    text ever since the 1500s, when an unknown printer took a galley of type and
-    scrambled it to make a type specimen book. It has survived not only five centuries,
-    but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing
-    Lorem Ipsum passages, and more recently with desktop publishing software like
-    Aldus PageMaker including versions of Lorem Ipsum.
-
-
-
-    Why do we use it?
-
-    It
-    is a long established fact that a reader will be distracted by the readable content
-    of a page when looking at its layout. The point of using Lorem Ipsum is that
-    it has a more-or-less normal distribution of letters, as opposed to using ''Content
-    here, content here'', making it look like readable English. Many desktop publishing
-    packages and web page editors now use Lorem Ipsum as their default model text,
-    and a search for ''lorem ipsum'' will uncover many web sites still in their infancy.
-    Various versions have evolved over the years, sometimes by accident, sometimes
-    on purpose (injected humour and the like).'
+  fullText: "Kasaba, gri bulutlar\u0131n alt\u0131nda sessizli\u011Fe g\xF6m\xFClm\xFC\u015Ft\xFC.
+    Eski ta\u015F binalar, ya\u011Fmuru bekler gibi kamburla\u015Fm\u0131\u015F,
+    sanki ge\xE7mi\u015Fin y\xFCk\xFCn\xFC s\u0131rtlar\u0131nda ta\u015F\u0131yorlard\u0131.
+    Sokaklar bo\u015Ftu, insanlar sessiz; \xF6l\xFCm\xFCn so\u011Fuk eli, kilisenin
+    \xE7an kulesinden a\u015Fa\u011F\u0131ya sark\u0131yor gibiydi. Dylan, y\u0131llard\u0131r
+    g\xF6rmedi\u011Fi babas\u0131n\u0131n cenazesi i\xE7in buradayd\u0131. Ne yas
+    tutmak, ne vedala\u015Fmak\u2026 Sadece merak. Belki de bedava i\xE7ki bulma
+    umudu.\nAma kiliseye ad\u0131m att\u0131\u011F\u0131nda, ge\xE7mi\u015Fin \xE7\xFCr\xFCm\xFC\u015F
+    kokusu ona bile a\u011F\u0131r geldi. \u0130\xE7eride herkes tan\u0131d\u0131k,
+    o ise fazlal\u0131k gibiydi. Ba\u015Fka bir d\xFCnyan\u0131n, ba\u015Fka bir
+    hik\xE2yenin i\xE7ine yanl\u0131\u015Fl\u0131kla d\xFC\u015Fm\xFC\u015F bir yabanc\u0131.\n\nDerken,
+    t\xFCm bu kasvetin i\xE7inde bir \u015Fey de\u011Fi\u015Fti.\nSanki zaman yava\u015Flad\u0131.\n\u0130\xE7eriye
+    bir kad\u0131n girdi. Ad\u0131mlar\u0131 \xFCrkek de\u011Fil, zarifti. G\xF6zlerinde
+    ne ac\u0131 ne de korku vard\u0131 \u2014 sadece anlay\u0131\u015F.\nElinde bir
+    \xE7i\xE7ek demeti ta\u015F\u0131yordu. K\xFC\xE7\xFCk, s\u0131radan\u2026 ama
+    i\xE7ten.Ad\u0131 Adalind\u2019di.\nAdalind\u2019in varl\u0131\u011F\u0131, Dylan\u2019\u0131n
+    i\xE7indeki donmu\u015F topra\u011Fa ilk kez g\xFCne\u015F de\u011Fdiren bir
+    esinti gibi \xE7arpt\u0131. Kad\u0131n, onu tan\u0131m\u0131yordu. Ge\xE7mi\u015Fini
+    bilmiyordu.\nVe yine de\u2026 yarg\u0131lamadan, \xE7ekinmeden g\xFCl\xFCmsedi.\n\nDylan
+    \u015Fa\u015F\u0131rd\u0131.\n\xC7\xFCnk\xFC al\u0131\u015F\u0131k oldu\u011Fu
+    gibi, insanlar ondan uzak durmam\u0131\u015F; aksine, ilk kez biri onun yan\u0131na
+    yakla\u015Fm\u0131\u015Ft\u0131.\nAdalind\u2019in g\xF6zlerinde bir t\xFCr safl\u0131k
+    vard\u0131 \u2014 Dylan\u2019\u0131n hayat\u0131nda hi\xE7 tan\u0131k olmad\u0131\u011F\u0131
+    bir safl\u0131k.\nZamanla yollar\u0131 tekrar tekrar kesi\u015Fti. Adalind, Dylan\u2019\u0131n
+    yaralar\u0131n\u0131 g\xF6rmedi. Dylan da onlar\u0131 saklamaya al\u0131\u015Fk\u0131nd\u0131
+    zaten.\nAma her kar\u015F\u0131la\u015Fma, i\xE7inde sessizce filizlenen bir
+    \u015Feyi b\xFCy\xFCtmeye ba\u015Flad\u0131.\nDylan, i\xE7inden ge\xE7enleri
+    anlamaya \xE7al\u0131\u015F\u0131rken, derinlerde bir yerden tan\u0131d\u0131k
+    bir yank\u0131 y\xFCkseldi:\n\n\u201CBir g\xFCn de\u011Fer verdi\u011Fin biri
+    olursa\u2026\u201D\n\nAma o sesi susturdu.Karanl\u0131\u011F\u0131n i\xE7indeki
+    bu k\xFC\xE7\xFCk \u0131\u015F\u0131\u011F\u0131 kaybetmek istemedi.Adalind\u2019i
+    tan\u0131maya devam etti.\nVe kendini, her ge\xE7en g\xFCn biraz daha onun yan\u0131nda
+    buldu.\nDylan, fark\u0131nda bile olmadan, o gece yapt\u0131\u011F\u0131 anla\u015Fman\u0131n
+    ilk ger\xE7ek bedelini \xF6demeye ba\u015Flam\u0131\u015Ft\u0131.\n\xC7\xFCnk\xFC
+    art\u0131k kalbinde bir k\u0131v\u0131lc\u0131m vard\u0131.\nVe o k\u0131v\u0131lc\u0131m\u2026
+    \u015Feytan\u0131n i\u015Faretini yeniden uyand\u0131r\u0131yordu."
   typingSpeed: 0.05
   audioSource: {fileID: 795902917}
   typeSound: {fileID: 8300000, guid: 2d9b42f274e6c304b9393ea599a9640e, type: 3}
@@ -2709,8 +2698,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2845,8 +2834,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 26
+  m_fontSizeBase: 26
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3570,7 +3559,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Storyboard Card 6 - Title
+  m_text: "Aynadaki \u015Eeytan"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -3785,7 +3774,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Storyboard Card 2 - Title
+  m_text: "Karanl\u0131\u011F\u0131n \u0130\xE7indeki I\u015F\u0131k"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -4193,7 +4182,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Storyboard Card 3 - Title
+  m_text: "T\xFCkeni\u015Fin Sessizli\u011Fi"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -4337,8 +4326,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 26
+  m_fontSizeBase: 26
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4446,7 +4435,42 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Storyboard 2Text Area
+  m_text: "Kasaba, gri bulutlar\u0131n alt\u0131nda sessizli\u011Fe g\xF6m\xFClm\xFC\u015Ft\xFC.
+    Eski ta\u015F binalar, ya\u011Fmuru bekler gibi kamburla\u015Fm\u0131\u015F,
+    sanki ge\xE7mi\u015Fin y\xFCk\xFCn\xFC s\u0131rtlar\u0131nda ta\u015F\u0131yorlard\u0131.
+    Sokaklar bo\u015Ftu, insanlar sessiz; \xF6l\xFCm\xFCn so\u011Fuk eli, kilisenin
+    \xE7an kulesinden a\u015Fa\u011F\u0131ya sark\u0131yor gibiydi. Dylan, y\u0131llard\u0131r
+    g\xF6rmedi\u011Fi babas\u0131n\u0131n cenazesi i\xE7in buradayd\u0131. Ne yas
+    tutmak, ne vedala\u015Fmak\u2026 Sadece merak. Belki de bedava i\xE7ki bulma
+    umudu.\nAma kiliseye ad\u0131m att\u0131\u011F\u0131nda, ge\xE7mi\u015Fin \xE7\xFCr\xFCm\xFC\u015F
+    kokusu ona bile a\u011F\u0131r geldi. \u0130\xE7eride herkes tan\u0131d\u0131k,
+    o ise fazlal\u0131k gibiydi. Ba\u015Fka bir d\xFCnyan\u0131n, ba\u015Fka bir
+    hik\xE2yenin i\xE7ine yanl\u0131\u015Fl\u0131kla d\xFC\u015Fm\xFC\u015F bir yabanc\u0131.\n\nDerken,
+    t\xFCm bu kasvetin i\xE7inde bir \u015Fey de\u011Fi\u015Fti.\nSanki zaman yava\u015Flad\u0131.\n\u0130\xE7eriye
+    bir kad\u0131n girdi. Ad\u0131mlar\u0131 \xFCrkek de\u011Fil, zarifti. G\xF6zlerinde
+    ne ac\u0131 ne de korku vard\u0131 \u2014 sadece anlay\u0131\u015F.\nElinde bir
+    \xE7i\xE7ek demeti ta\u015F\u0131yordu. K\xFC\xE7\xFCk, s\u0131radan\u2026 ama
+    i\xE7ten.Ad\u0131 Adalind\u2019di.\nAdalind\u2019in varl\u0131\u011F\u0131, Dylan\u2019\u0131n
+    i\xE7indeki donmu\u015F topra\u011Fa ilk kez g\xFCne\u015F de\u011Fdiren bir
+    esinti gibi \xE7arpt\u0131. Kad\u0131n, onu tan\u0131m\u0131yordu. Ge\xE7mi\u015Fini
+    bilmiyordu.\nVe yine de\u2026 yarg\u0131lamadan, \xE7ekinmeden g\xFCl\xFCmsedi.\n\nDylan
+    \u015Fa\u015F\u0131rd\u0131.\n\xC7\xFCnk\xFC al\u0131\u015F\u0131k oldu\u011Fu
+    gibi, insanlar ondan uzak durmam\u0131\u015F; aksine, ilk kez biri onun yan\u0131na
+    yakla\u015Fm\u0131\u015Ft\u0131.\nAdalind\u2019in g\xF6zlerinde bir t\xFCr safl\u0131k
+    vard\u0131 \u2014 Dylan\u2019\u0131n hayat\u0131nda hi\xE7 tan\u0131k olmad\u0131\u011F\u0131
+    bir safl\u0131k.\nZamanla yollar\u0131 tekrar tekrar kesi\u015Fti. Adalind, Dylan\u2019\u0131n
+    yaralar\u0131n\u0131 g\xF6rmedi. Dylan da onlar\u0131 saklamaya al\u0131\u015Fk\u0131nd\u0131
+    zaten.\nAma her kar\u015F\u0131la\u015Fma, i\xE7inde sessizce filizlenen bir
+    \u015Feyi b\xFCy\xFCtmeye ba\u015Flad\u0131.\nDylan, i\xE7inden ge\xE7enleri
+    anlamaya \xE7al\u0131\u015F\u0131rken, derinlerde bir yerden tan\u0131d\u0131k
+    bir yank\u0131 y\xFCkseldi:\n\n\u201CBir g\xFCn de\u011Fer verdi\u011Fin biri
+    olursa\u2026\u201D\n\nAma o sesi susturdu.Karanl\u0131\u011F\u0131n i\xE7indeki
+    bu k\xFC\xE7\xFCk \u0131\u015F\u0131\u011F\u0131 kaybetmek istemedi.Adalind\u2019i
+    tan\u0131maya devam etti.\nVe kendini, her ge\xE7en g\xFCn biraz daha onun yan\u0131nda
+    buldu.\nDylan, fark\u0131nda bile olmadan, o gece yapt\u0131\u011F\u0131 anla\u015Fman\u0131n
+    ilk ger\xE7ek bedelini \xF6demeye ba\u015Flam\u0131\u015Ft\u0131.\n\xC7\xFCnk\xFC
+    art\u0131k kalbinde bir k\u0131v\u0131lc\u0131m vard\u0131.\nVe o k\u0131v\u0131lc\u0131m\u2026
+    \u015Feytan\u0131n i\u015Faretini yeniden uyand\u0131r\u0131yordu."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -4473,8 +4497,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 23
+  m_fontSizeBase: 23
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
