@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/IntroStoryboard.unity
     guid: 424e4a739b9705941b9739d2a04dc3d4
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/Scenes/Karakter Mekanik.unity
     guid: 3b59c844c2793764eb654df02a545f8d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
